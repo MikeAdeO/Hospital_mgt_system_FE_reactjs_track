@@ -2,6 +2,7 @@ import React from "react";
 import Logo from "./Logo";
 import NavItems from "./NavItems";
 
+
 const Header = () => {
 	return (
 		<div className="header">
